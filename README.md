@@ -18,7 +18,7 @@ This repository contains my personal developer portfolio, built to showcase my s
 
 ## 🌐 Live Demo
 
-You can view the live portfolio here: [zeinebghrab.github.io](https://zeinebghrab.github.io)
+You can view the live portfolio here: [Zeineb Ghrab][(https://zeinebghrab.vercel.app/)
 
 ## 📬 Contact
 
